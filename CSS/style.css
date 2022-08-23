@@ -44,4 +44,8 @@ a.button {
   font-weight: 700;
   font-size: 15px;
   align-content: center;
+  transition: 0.3s;
+}
+a.button:hover {
+  background: #208ef5;
 }
