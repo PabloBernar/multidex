@@ -1,0 +1,26 @@
+/* FONTS  */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,700&display=swap');
+/* FONTS  */
+
+/*RESET CSS*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* STYLE MENU */
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color: #0f68bb;
+  font-family: 'DM Sans', sans-serif;
+  justify-content: space-between;
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+}
+.buttonGit {
+  display: flex;
+  justify-content: space-between;
+}
