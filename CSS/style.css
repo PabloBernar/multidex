@@ -23,4 +23,25 @@ nav {
 .buttonGit {
   display: flex;
   justify-content: space-between;
+  gap: 10px;
+}
+a.button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  text-decoration: none;
+  border: 1.5px solid #ffffff;
+  border-radius: 40px;
+  width: 105px;
+  height: 38px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+  color: #ffffff;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  align-content: center;
 }
