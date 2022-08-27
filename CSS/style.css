@@ -20,6 +20,10 @@ nav {
   text-decoration: none;
   padding: 20px;
 }
+main {
+  display: flex;
+  justify-content: center;
+}
 .buttonGit {
   display: flex;
   justify-content: space-between;
@@ -48,4 +52,11 @@ a.button {
 }
 a.button:hover {
   background: #208ef5;
+}
+
+.box {
+  width: 1400px;
+  height: 200px;
+  border: 2px solid black;
+  top
 }
