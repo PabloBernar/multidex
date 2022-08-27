@@ -20,10 +20,7 @@ nav {
   text-decoration: none;
   padding: 20px;
 }
-main {
-  display: flex;
-  justify-content: center;
-}
+
 .buttonGit {
   display: flex;
   justify-content: space-between;
@@ -55,8 +52,24 @@ a.button:hover {
 }
 
 .box {
-  width: 1400px;
-  height: 200px;
-  border: 2px solid black;
-  top
+  display: flex;
+  height: 770px;
+  border: 5px solid black;
+  margin: 20px auto;
+}
+
+.aryaStark img {
+  position: relative;
+  top: 300px;
+  left: 200px;
+  width: 75%;
+  height: 75%;
+}
+
+.cachorrena img {
+  position: relative;
+  top: 300px;
+  left: 200px;
+  width: 75%;
+  height: 75%;
 }
